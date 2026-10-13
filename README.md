@@ -126,8 +126,3 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 - `GET /api/model-info` — Performance comparison metrics
 - `GET /api/optimize?limit=15` — Top longevity ingredient combinations
 
----
-
-## 📄 License
-
-MIT License. Designed and developed for fragrance longevity intelligence.
