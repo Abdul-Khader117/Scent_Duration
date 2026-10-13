@@ -1,0 +1,3 @@
+Model,MAE (hours),RMSE (hours),R²,MAPE (%)
+XGBoost,0.578,0.798,0.9911,9.87
+RandomForest,0.923,1.341,0.9748,14.37

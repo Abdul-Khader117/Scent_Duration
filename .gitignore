@@ -1,12 +1,24 @@
+# Python
 __pycache__/
-.ipynb_checkpoints/
-.venv/
-.venv-win/
-*.pyc
-outputs/
-reports/*.pdf
-reports/*.html
-models/
-best_model.pkl
-classification_model.pkl
-model_metadata.pkl
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Node / React Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.eslintcache
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore generated results if you don't want them in git
+# results/
+# plots/

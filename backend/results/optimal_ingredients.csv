@@ -1,0 +1,26 @@
+Ingredients,NumIngredients,TopNote_Count,MiddleNote_Count,BaseNote_Count,Predicted_Duration_Hours,Predicted_Category
+"Patchouli, Vetiver, Musk, Vanilla, Benzoin",5,0,0,5,20.92,Very Long
+"Freesia, Patchouli, Vetiver, Musk, Vanilla, Benzoin",6,0,1,5,20.9,Very Long
+"Patchouli, Vetiver, Oakmoss, Musk, Vanilla",5,0,0,5,20.89,Very Long
+"Patchouli, Vetiver, Musk, Amber, Vanilla",5,0,0,5,20.89,Very Long
+"Patchouli, Vetiver, Amber, Vanilla, Benzoin",5,0,0,5,20.88,Very Long
+"Patchouli, Vetiver, Oakmoss, Vanilla, Benzoin",5,0,0,5,20.88,Very Long
+"Freesia, Patchouli, Vetiver, Oakmoss, Musk, Vanilla",6,0,1,5,20.87,Very Long
+"Sandalwood, Patchouli, Vetiver, Musk, Vanilla",5,0,0,5,20.87,Very Long
+"Sandalwood, Patchouli, Vetiver, Vanilla, Benzoin",5,0,0,5,20.87,Very Long
+"Freesia, Patchouli, Vetiver, Amber, Vanilla, Benzoin",6,0,1,5,20.86,Very Long
+"Freesia, Patchouli, Vetiver, Oakmoss, Vanilla, Benzoin",6,0,1,5,20.86,Very Long
+"Freesia, Patchouli, Vetiver, Musk, Amber, Vanilla",6,0,1,5,20.86,Very Long
+"Freesia, Sandalwood, Patchouli, Vetiver, Vanilla, Benzoin",6,0,1,5,20.85,Very Long
+"Freesia, Sandalwood, Patchouli, Vetiver, Musk, Vanilla",6,0,1,5,20.85,Very Long
+"Patchouli, Vetiver, Oakmoss, Amber, Vanilla",5,0,0,5,20.85,Very Long
+"Patchouli, Vetiver, Musk, Vanilla, Tonka Bean",5,0,0,5,20.84,Very Long
+"Sandalwood, Patchouli, Vetiver, Oakmoss, Vanilla",5,0,0,5,20.84,Very Long
+"Patchouli, Vetiver, Oakmoss, Musk, Vanilla, Benzoin",6,0,0,6,20.84,Very Long
+"Patchouli, Vetiver, Musk, Amber, Vanilla, Benzoin",6,0,0,6,20.84,Very Long
+"Patchouli, Musk, Amber, Vanilla, Benzoin",5,0,0,5,20.83,Very Long
+"Sandalwood, Patchouli, Vetiver, Musk, Vanilla, Benzoin",6,0,0,6,20.83,Very Long
+"Patchouli, Oakmoss, Musk, Vanilla, Benzoin",5,0,0,5,20.83,Very Long
+"Sandalwood, Patchouli, Vetiver, Amber, Vanilla",5,0,0,5,20.83,Very Long
+"Iris, Patchouli, Vetiver, Musk, Vanilla, Benzoin",6,0,1,5,20.83,Very Long
+"Patchouli, Vetiver, Vanilla, Tonka Bean, Benzoin",5,0,0,5,20.83,Very Long

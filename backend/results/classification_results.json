@@ -1,0 +1,140 @@
+{
+  "XGBoost": {
+    "accuracy": 0.86,
+    "f1_weighted": 0.8614,
+    "report": {
+      "Long": {
+        "precision": 0.625,
+        "recall": 0.625,
+        "f1-score": 0.625,
+        "support": 16.0
+      },
+      "Medium": {
+        "precision": 0.6666666666666666,
+        "recall": 0.7058823529411765,
+        "f1-score": 0.6857142857142857,
+        "support": 17.0
+      },
+      "Short": {
+        "precision": 0.96875,
+        "recall": 0.96875,
+        "f1-score": 0.96875,
+        "support": 32.0
+      },
+      "Very Long": {
+        "precision": 0.9705882352941176,
+        "recall": 0.9428571428571428,
+        "f1-score": 0.9565217391304348,
+        "support": 35.0
+      },
+      "accuracy": 0.86,
+      "macro avg": {
+        "precision": 0.8077512254901961,
+        "recall": 0.8106223739495799,
+        "f1-score": 0.8089965062111801,
+        "support": 100.0
+      },
+      "weighted avg": {
+        "precision": 0.8630392156862744,
+        "recall": 0.86,
+        "f1-score": 0.8613540372670808,
+        "support": 100.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        10,
+        5,
+        0,
+        1
+      ],
+      [
+        4,
+        12,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        31,
+        0
+      ],
+      [
+        2,
+        0,
+        0,
+        33
+      ]
+    ]
+  },
+  "RandomForest": {
+    "accuracy": 0.88,
+    "f1_weighted": 0.8827,
+    "report": {
+      "Long": {
+        "precision": 0.6470588235294118,
+        "recall": 0.6875,
+        "f1-score": 0.6666666666666666,
+        "support": 16.0
+      },
+      "Medium": {
+        "precision": 0.7222222222222222,
+        "recall": 0.7647058823529411,
+        "f1-score": 0.7428571428571429,
+        "support": 17.0
+      },
+      "Short": {
+        "precision": 1.0,
+        "recall": 0.96875,
+        "f1-score": 0.9841269841269841,
+        "support": 32.0
+      },
+      "Very Long": {
+        "precision": 0.9705882352941176,
+        "recall": 0.9428571428571428,
+        "f1-score": 0.9565217391304348,
+        "support": 35.0
+      },
+      "accuracy": 0.88,
+      "macro avg": {
+        "precision": 0.8349673202614379,
+        "recall": 0.840953256302521,
+        "f1-score": 0.8375431331953072,
+        "support": 100.0
+      },
+      "weighted avg": {
+        "precision": 0.8860130718954248,
+        "recall": 0.88,
+        "f1-score": 0.8826556245686681,
+        "support": 100.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        11,
+        4,
+        0,
+        1
+      ],
+      [
+        4,
+        13,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        31,
+        0
+      ],
+      [
+        2,
+        0,
+        0,
+        33
+      ]
+    ]
+  }
+}

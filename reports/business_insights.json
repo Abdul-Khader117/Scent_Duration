@@ -1,7 +1,0 @@
-[
-  "Base note concentration is a longevity lever: a 10 point increase in BaseNotes_Pct is associated with about 2.09 additional hours, before controlling for other factors.",
-  "Volatility behaves as expected: a 0.10 increase in VolatilityScore is associated with about -2.82 hours of duration change.",
-  "Application format matters: Eau de Parfum has the highest average duration (19.86 hours), while Body Lotion is lowest (0.92 hours).",
-  "The strongest model feature is `volatility_adjusted_concentration`, indicating that the model is primarily separating products using this signal.",
-  "Family profile is commercially relevant: Oriental fragrances average 10.51 hours versus Fresh at 6.60 hours."
-]
